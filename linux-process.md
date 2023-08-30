@@ -5,7 +5,7 @@
 ![image](https://velog.velcdn.com/images/myway00/post/7085480a-8ec8-4ef1-afee-514b1d4ad568/image.png)
 
 ## 프로세스 자료구조 
-![image](blob:https://velog.io/b1da12b1-8909-4054-a8fa-4342841370b4)
+![image](https://velog.velcdn.com/images/myway00/post/9bc6bb43-7a00-466b-88b4-eb9de92db6cb/image.png)
 
 1. 리눅스에서는 프로세스에 대한 정보는 task_struct 구조체를 통해 관리된다.  이 구조체는 프로세스의 모든 정보를 보관   
     하는 프로세스 서술자로 아주 많은 구조체 로 이루어져 있다.
